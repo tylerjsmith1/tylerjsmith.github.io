@@ -1,5 +1,9 @@
 body {
+    font-size: 15px;
+    font-family: "Open sans", Arial, Helvetica, sans-serif;
+    color: #666666;
     margin: 0;
     background: lightskyblue;
     text-align: center;
+    padding: 0;
 }
